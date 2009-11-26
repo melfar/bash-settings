@@ -16,5 +16,5 @@ dir=`dirname $BASH_SOURCE`
 
 export PATH=$PATH:$dir/linux-desktop/
 . $dir/linux-desktop/osx-compat.sh
-
+. $dir/linux-desktop/git-colors.sh
 
